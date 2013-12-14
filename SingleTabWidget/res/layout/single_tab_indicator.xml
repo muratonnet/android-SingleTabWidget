@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/title"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/single_tab_indicator_background_selector"
+    android:drawableTop="@drawable/single_tab_indicator_android_red_selector"
+    android:gravity="center_horizontal"
+    android:padding="5dp"
+    android:textColor="@drawable/single_tab_indicator_text_selector" />
